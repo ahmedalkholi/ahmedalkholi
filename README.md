@@ -19,7 +19,7 @@ I focus on delivering high-quality web development that ensures smooth user expe
 **📩 Let’s collaborate and build something great together!**
   
 <div>
-  <a href="[https://www.linkedin.com/in/thephoenixcoder](https://www.linkedin.com/in/ahmedalkholy/)">
+  <a href="[https://www.linkedin.com/in/thephoenixcoder](https://www.linkedin.com/in/ahmedalkholi/)">
     <img align="left" alt="linkedin" width="22px" src="https://img.icons8.com/color/2x/linkedin-2.png" />
   </a>
 </div>
