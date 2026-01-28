@@ -5,11 +5,15 @@
 I’m a Front-End Developer skilled in turning ideas and designs into fully functional, responsive websites. I specialize in HTML, CSS, and JavaScript, ensuring that every project is built with clean, efficient, and maintainable code. I work with modern layout techniques like Flexbox and CSS Grid to create structured and adaptive web pages that work seamlessly across all devices.
 
 What Can I Offer You?
-✔️ Converting Figma or XD designs into responsive websites
-✔️ Writing clean, well-structured, and maintainable code
-✔️ Implementing interactive features with JavaScript
-✔️ Optimizing websites for speed and performance
-
+<br>
+✔️ Converting Figma or XD designs into responsive websites.
+<br>
+✔️ Writing clean, well-structured, and maintainable code.
+<br>
+✔️ Implementing interactive features with JavaScript.
+<br>
+✔️ Optimizing websites for speed and performance.
+<br>
 I focus on delivering high-quality web development that ensures smooth user experience and easy scalability. If you have a design and need a skilled developer to bring it to life, I’m here to help!
 
 **📩 Let’s collaborate and build something great together!**
